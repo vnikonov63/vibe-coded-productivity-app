@@ -61,13 +61,6 @@ Every timer can have sub-timers (one level deep).
 | `Esc`       | Cancel                 |
 | `Backspace` | Delete last character  |
 
-### Delete sequence _(after first `d`)_
-
-| Key           | Action                                        |
-| ------------- | --------------------------------------------- |
-| `d` (×2 more) | Advance — three `d` presses reach confirmation |
-| Any other key | Cancel — return to normal                     |
-
 ### Confirm delete _(after `d d d`)_
 
 | Key           | Action              |
